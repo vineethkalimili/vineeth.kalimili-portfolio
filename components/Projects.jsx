@@ -18,11 +18,11 @@ const Projects = () => {
         <Image py-4 src={Solidity} width='64px' height='64px' alt='/'/>
         <div className='py-2 font-semibold text-[#3cbb40] text-center'>
         <a href='https://github.com/vineethkalimili/Moraland' target="_blank" rel="noopener noreferrer">
-            "Moraland DApp"
+        &quot;Moraland DApp&quot;
         </a>
         </div>
         <p className='font-bold py-2 mb-2' >
-            `"Moraland" is a decentralized application (DApp) that utilizes blockchain technology to enable plot claiming 
+            `&quot;Moraland&quot; is a decentralized application (DApp) that utilizes blockchain technology to enable plot claiming 
             and interactive map management for a virtual world.`
         </p>
         <p className='font-bold text-center text-emerald-800'>
@@ -40,11 +40,11 @@ const Projects = () => {
         <Image py-4 src={TournamentImg} width='95px' height='95px' alt='/'/>
         <div className='py-2 font-bold text-[#3cbb40] text-center'>
         <a href='https://github.com/vineethkalimili/Tournament-bracket-generator' target="_blank" rel="noopener noreferrer">
-            "Tournament-Bracket-Generator DApp"
+        &quot;Tournament-Bracket-Generator DApp&quot;
         </a>
         </div>
         <p className='font-bold py-2 mb-2' >
-            `"Tournament-Bracket-Generator" is a decentralized application (DApp) that utilizes blockchain technology to conduct Tournament Matches.`
+            `&quot;Tournament-Bracket-Generator&quot; is a decentralized application (DApp) that utilizes blockchain technology to conduct Tournament Matches.`
         </p>
         <p className='font-bold text-center text-emerald-800'>
             Development Tools

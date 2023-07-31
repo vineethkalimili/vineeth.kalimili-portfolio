@@ -18,9 +18,15 @@ const Mail = () => {
       <div className="container mx-auto">
         <p className="text-center">&copy; {new Date().getFullYear()} My Website. All rights reserved.</p>
         <ul className="flex justify-center mt-2">
-          <li className="mr-9"><a href="/" className="text-white">Home</a></li>
-          <li className="mr-9"><a  className="text-white">Email : vineeth.k.nsrv@gmail.com</a></li>
-          <li className="mr-9"><a  className="text-white">ContactNo:9676064483</a></li>
+          <li className="mr-9">
+            <Link href="/"><a  className="text-white">Home</a></Link>
+            </li>
+          <li className="mr-9">
+            <p  className="text-white">Email : vineeth.k.nsrv@gmail.com</p>
+            </li>
+          <li className="mr-9">
+            <p  className="text-white">ContactNo:9676064483</p>
+            </li>
         </ul>
       </div>
     </footer>

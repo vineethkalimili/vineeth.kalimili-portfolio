@@ -117,7 +117,7 @@ embraced
           <p className='py-1 '>April 2022 - To Till Date</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
-            Circle NFT badge is a tool where NFT's are issued to the employees based on their mastery levels in circles.
+            Circle NFT badge is a tool where NFT&apos;s are issued to the employees based on their mastery levels in circles.
             </li>
             <li>
             Circles are groups within the organization whose focus is to Identify and elevate technologists with the 

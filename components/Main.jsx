@@ -11,7 +11,7 @@ const Main = () => {
     <div id='home' className='w-full h-screen text-center'>
       <div className='max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center'>
         <div>
-          <div class="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-70 h-80 relative overflow-hidden mt-10 md:h-96 md:w-96">
+          <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-70 h-80 relative overflow-hidden mt-10 md:h-96 md:w-96">
           <Image alt="Profile Photo" src={ProfileImg} />
           </div>
 
