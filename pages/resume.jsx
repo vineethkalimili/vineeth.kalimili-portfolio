@@ -49,7 +49,7 @@ const resume = () => {
           </div>
         </div>
         <p>
-        Innovative, task-driven professional with 1.9 years of experience in Ascendion Engineering Private Limited as 
+        Innovative, task-driven professional with 2+ years of experience in Ascendion Engineering Private Limited as 
 a Blockchain developer. Equipped with a record of success in consistently identifying and providing the 
 technological needs of companies through ingenious innovation. Proficient in writing smart contracts, writing, 
 and testing codes, troubleshooting simple/complex issues, and implementing new features based on user 
